@@ -1,5 +1,5 @@
 # Nuclear-Design-and-Technology
-The analysis of a lead cooled fast reactor, homework of the curse: Nuclear Design and Technology from the PoliMi held by L.Luzzi.
+The analysis of a lead cooled fast reactor, homework of the PoliMi curse: Nuclear Design and Technology, held by L.Luzzi.
 
 
 here you can find the Nuclear Design and technology homework solved in matlab.
