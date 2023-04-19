@@ -10,3 +10,6 @@ The assigment task and the full detailed results report are downloadable in PDF 
 
 otherwise to view the homework task and its accompanying detailed report, including comments and plots, simply follow this link to my personal Google Drive folder.
 https://drive.google.com/drive/folders/16R-TS7b2jPH0YJEUDZVcZxAVwDejgYDK?usp=sharing
+
+
+To run in matlab the full code, download all the files in the same directory and run the RunMe.m file.
