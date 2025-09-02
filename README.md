@@ -4,7 +4,7 @@ The analysis of a lead cooled fast reactor, homework of the PoliMi curse: Nuclea
 
 here you can find the Nuclear Design and technology homework solved in matlab.
 
-unfortunately only the matlab(😒) version has been produced, I don't have traslate to python(❤️) yet.
+unfortunately only the matlab(😒) version has been produced, I don't have traslate to pythonyet.
 
 The assigment task and the full detailed results report are downloadable in PDF from the repository (assignment task 12-12-2021.pdf & Results report.pdf).
 
